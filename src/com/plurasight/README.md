@@ -6,8 +6,7 @@
 
 
 
-_You’ve just entered the showroom of pure Java horsepower.
-This project isn’t just code — it’s your digital dealership, where logic meets luxury and every method drives like a dream._
+###  This project isn’t just code — it’s your digital dealership, where logic meets luxury and every method drives like a dream.
 
 
 

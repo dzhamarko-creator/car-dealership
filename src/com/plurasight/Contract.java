@@ -29,9 +29,9 @@ public abstract class Contract {
         return vehicle;
     }
 
-    // every contract must be able to tell total price
+    // total price
     public abstract double getTotalPrice();
 
-    // every contract must be able to tell monthly payment
+    // monthly payment
     public abstract double getMonthlyPayment();
 }
